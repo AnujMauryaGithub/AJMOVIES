@@ -253,20 +253,20 @@ form{
     background-color: rgba(27, 27, 27, 0.871);
     color: #fff;
     font-size: 20px;
-    padding: 07px 10px;
+    padding: 012px 16px;
     align-items: center;
 }
 .container input{
-    margin-left: 35px;
+    margin-left: 62px;
     margin-bottom: 20px;
 }
 .container textarea{
-    margin-left: 28px;
+    margin-left: 50px;
     margin-bottom: 20px;
 }
 .container #btn1{
     padding: 10px 20px;
-    margin-left: 95px;
+    margin-left: 120px;
     margin-bottom: 30px;
     color: #fff;
     font-size: 17px;
